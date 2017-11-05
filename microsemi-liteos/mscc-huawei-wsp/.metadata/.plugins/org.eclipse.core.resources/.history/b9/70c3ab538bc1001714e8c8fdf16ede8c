@@ -1,0 +1,26 @@
+gd32firmware/Third_party/lwip-1.4.1/src/api/err.o: \
+ ../gd32firmware/Third_party/lwip-1.4.1/src/api/err.c \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/err.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/opt.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/lwipopts.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/debug.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/arch.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx/arch/cc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx/arch/lwip_cpu.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/opt.h
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/err.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/opt.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/lwipopts.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/debug.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/arch.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx/arch/cc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx/arch/lwip_cpu.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\gd32firmware\Third_party\lwip-1.4.1\src\include/lwip/opt.h:

@@ -1,0 +1,113 @@
+gd32firmware/Library/Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dac.o: \
+ ../gd32firmware/Library/Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_dac.c \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dac.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/gd32f4xx.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cm4.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cmInstr.h \
+ C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/cmsis_gcc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cmFunc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cmSimd.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/system_gd32f4xx.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/gd32f4xx_libopt.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_adc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_can.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_crc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ctc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dbg.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dci.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dma.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_enet.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exmc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exti.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fmc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fwdgt.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_gpio.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_syscfg.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_i2c.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ipa.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_iref.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_pmu.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rcu.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rtc.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_sdio.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_spi.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_timer.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_tli.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_trng.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_usart.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_wwdgt.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_misc.h
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dac.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/gd32f4xx.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cm4.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cmInstr.h:
+
+C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/cmsis_gcc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cmFunc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\CMSIS/core_cmSimd.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/system_gd32f4xx.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\demo\inc/gd32f4xx_libopt.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_adc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_can.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_crc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ctc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dbg.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dci.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dma.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_enet.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exmc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exti.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fmc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fwdgt.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_gpio.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_syscfg.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_i2c.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ipa.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_iref.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_pmu.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rcu.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rtc.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_sdio.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_spi.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_timer.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_tli.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_trng.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_usart.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_wwdgt.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_misc.h:

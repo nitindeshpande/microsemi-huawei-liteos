@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="ilg.gnumcueclipse.debug.gdbjtag.openocd.feature:4.1.5.201710202123"/>
+		<item value="ilg.gnumcueclipse.managedbuild.cross.arm.feature:2.5.2.201710202123"/>
+		<item value="ilg.gnumcueclipse.managedbuild.cross.riscv.feature:2.5.2.201710202123"/>
+		<item value="org.eclipse.cdt.build.crossgcc:9.3.0.201706122201"/>
+		<item value="org.eclipse.cdt.gdb:9.3.0.201706122201"/>
+		<item value="org.eclipse.cdt.launch.remote:9.3.0.201706122201"/>
+		<item value="org.eclipse.cdt.mylyn:5.19.0.v20170411-2108"/>
+		<item value="org.eclipse.cdt:9.3.0.201706122201"/>
+		<item value="org.eclipse.egit:4.8.0.201706111038-r"/>
+		<item value="org.eclipse.emf.common:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.emf.ecore:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.epp.mpc:1.6.0.v20170616-0843"/>
+		<item value="org.eclipse.epp.package.cpp.feature:4.7.0.20170620-1800"/>
+		<item value="org.eclipse.help:2.2.100.v20170612-0950"/>
+		<item value="org.eclipse.jgit:4.8.0.201706111038-r"/>
+		<item value="org.eclipse.mylyn.bugzilla_feature:3.23.0.v20170411-2036"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.15.0.v20170411-1844"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.15.0.v20170411-1844"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.15.0.v20170411-1844"/>
+		<item value="org.eclipse.mylyn.commons:3.23.0.v20170503-0014"/>
+		<item value="org.eclipse.mylyn.context_feature:3.23.0.v20170414-0629"/>
+		<item value="org.eclipse.mylyn.discovery:3.23.0.v20170411-1844"/>
+		<item value="org.eclipse.mylyn.ide_feature:3.23.0.v20170411-2108"/>
+		<item value="org.eclipse.mylyn.monitor:3.23.0.v20170411-1844"/>
+		<item value="org.eclipse.mylyn.tasks.ide:3.23.0.v20170411-2036"/>
+		<item value="org.eclipse.mylyn.team_feature:3.23.0.v20170411-2108"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.6.201703111926"/>
+		<item value="org.eclipse.mylyn.wikitext_feature:3.0.6.201703111926"/>
+		<item value="org.eclipse.mylyn_feature:3.23.0.v20170614-1854"/>
+		<item value="org.eclipse.oomph.p2:1.8.0.v20170410-0909"/>
+		<item value="org.eclipse.oomph.setup.core:1.8.0.v20170531-0903"/>
+		<item value="org.eclipse.oomph.setup:1.8.0.v20170531-0903"/>
+		<item value="org.eclipse.platform:4.7.0.v20170612-1255"/>
+		<item value="org.eclipse.rcp:4.7.0.v20170612-1255"/>
+		<item value="org.eclipse.rse.core:3.7.3.201704251225"/>
+		<item value="org.eclipse.rse.dstore:3.7.0.201704251225"/>
+		<item value="org.eclipse.rse.ftp:3.7.1.201704251225"/>
+		<item value="org.eclipse.rse.local:3.7.0.201704251225"/>
+		<item value="org.eclipse.rse.ssh:3.7.0.201704251225"/>
+		<item value="org.eclipse.rse.telnet:3.7.0.201704251225"/>
+		<item value="org.eclipse.rse:3.7.3.201704251225"/>
+		<item value="org.eclipse.tm.terminal.control.feature:4.3.0.201706140544"/>
+		<item value="org.eclipse.tm.terminal.feature:4.3.0.201706140544"/>
+		<item value="org.eclipse.tm.terminal.view.feature:4.3.0.201706140544"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="465" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="215" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="620" key="DIALOG_X_ORIGIN"/>
+		<item value="346" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

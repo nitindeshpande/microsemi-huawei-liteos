@@ -1,0 +1,5 @@
+iotivity-constrained/api/oc_blockwise.o: \
+ ../iotivity-constrained/api/oc_blockwise.c \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained\port\liteos/config.h
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained\port\liteos/config.h:

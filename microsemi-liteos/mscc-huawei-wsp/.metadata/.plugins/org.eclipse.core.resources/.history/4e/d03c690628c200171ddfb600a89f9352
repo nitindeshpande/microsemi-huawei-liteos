@@ -1,0 +1,5 @@
+iotivity-constrained/util/oc_memb.o: \
+ ../iotivity-constrained/util/oc_memb.c \
+ ../iotivity-constrained/util/oc_memb.h
+
+../iotivity-constrained/util/oc_memb.h:

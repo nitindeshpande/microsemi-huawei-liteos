@@ -1,0 +1,70 @@
+kernel/base/mem/los_memory.o: ../kernel/base/mem/los_memory.c \
+ ../kernel/base/mem/los_memory.inc \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_memory.ph \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_memory.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_base.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\link\keil/los_builddef.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_typedef.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\config/los_config.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_typedef.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_printf.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_printf.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_list.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_errno.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_multipledlinkhead.ph \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_multipledlinkhead.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_memstat.ph \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_task.ph \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_task.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_sys.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\cpu\arm\cortex-m4/los_hwi.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_base.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_sys.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_tick.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_event.h
+
+../kernel/base/mem/los_memory.inc:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_memory.ph:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_memory.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_base.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\link\keil/los_builddef.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_typedef.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\config/los_config.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_typedef.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_printf.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_printf.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_list.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_errno.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_multipledlinkhead.ph:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_multipledlinkhead.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_memstat.ph:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\base\include/los_task.ph:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_task.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_sys.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\cpu\arm\cortex-m4/los_hwi.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_base.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_sys.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_tick.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\kernel\include/los_event.h:

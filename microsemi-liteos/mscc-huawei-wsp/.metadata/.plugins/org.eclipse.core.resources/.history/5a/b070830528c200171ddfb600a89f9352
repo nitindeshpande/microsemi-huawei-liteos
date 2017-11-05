@@ -1,0 +1,17 @@
+iotivity-constrained/api/oc_helpers.o: \
+ ../iotivity-constrained/api/oc_helpers.c \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained\include/oc_helpers.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/util/oc_list.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/util/oc_mmem.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/port/oc_assert.h \
+ D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/port/oc_log.h
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained\include/oc_helpers.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/util/oc_list.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/util/oc_mmem.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/port/oc_assert.h:
+
+D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\mscc-huawei-wsp\sc-gd450i-iot-ocf-server\iotivity-constrained/port/oc_log.h:

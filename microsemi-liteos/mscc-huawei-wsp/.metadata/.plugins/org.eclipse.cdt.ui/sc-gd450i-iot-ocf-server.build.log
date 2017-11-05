@@ -1,0 +1,11 @@
+23:42:06 **** Build of configuration Debug for project sc-gd450i-iot-ocf-server ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "sc-gd450i-iot-ocf-server.elf"
+   text	   data	    bss	    dec	    hex	filename
+ 134824	   1792	 125520	 262136	  3fff8	sc-gd450i-iot-ocf-server.elf
+Finished building: sc-gd450i-iot-ocf-server.siz
+ 
+
+23:42:08 Build Finished (took 2s.304ms)
+
