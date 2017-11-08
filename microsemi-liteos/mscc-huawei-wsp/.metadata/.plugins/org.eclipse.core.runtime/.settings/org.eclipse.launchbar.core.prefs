@@ -1,6 +1,6 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-iot-ocf-server.elf,org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-iot-ocf-server Debug
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-iot-ocf-server.elf,org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-iot-ocf-server Debug,org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-board-test Debug
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-iot-ocf-server\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:sc-gd450i-iot-ocf-server\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
