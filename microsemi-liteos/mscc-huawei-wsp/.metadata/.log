@@ -6242,3 +6242,168 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/sc-gd450i-boar
 
 !ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:29:24.451
 !MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+!SESSION 2017-11-08 20:43:21.316 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -data C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-08 20:43:26.815
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-11-08 20:44:06.788 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -data C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-08 20:44:12.545
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.423
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.449
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.488
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.499
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.505
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.507
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.511
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:14.536
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-08 20:45:18.336
+!MESSAGE Indexed 'sc-gd450i-board-test' (125 sources, 255 headers) in 3.67 sec: 15,408 declarations; 83,951 references; 1 unresolved inclusions; 1 syntax errors; 57 unresolved names (0.057%)
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:20.651
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:45:20.669
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:46:17.017
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:46:17.044
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:46:17.051
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:46:17.055
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:46:17.073
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-08 20:46:17.094
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-08 20:46:34.016
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-08 20:46:34.017
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:46:34.132
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:46:36.375
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:46:36.378
+!MESSAGE C:\Microsemi\SoftConsole_v5.2.0.12\eclipse\/../openocd/bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 --command set JTAG_KHZ 4000 --command set FPGA_TAP N --command set DEVICE GD450 --file board/microsemi-cortex-m3.cfg -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:46:36.697
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:46:36.702
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:46:40.027
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:49:48.500
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:49:50.414
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:49:50.417
+!MESSAGE C:\Microsemi\SoftConsole_v5.2.0.12\eclipse\/../openocd/bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 --command set JTAG_KHZ 4000 --command set FPGA_TAP N --command set DEVICE GD450 --file board/microsemi-cortex-m3.cfg -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2017-11-08 20:50:06.414
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitorWithProgress@27ab3a): Status ERROR: ilg.gnumcueclipse.debug.gdbjtag code=5010 Starting OpenOCD timed out. null' resulted in an error.
+!SUBENTRY 1 ilg.gnumcueclipse.debug.gdbjtag 4 5010 2017-11-08 20:50:06.414
+!MESSAGE Starting OpenOCD timed out.
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2017-11-08 20:50:06.426
+!MESSAGE Error in services launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: Starting OpenOCD timed out.
+	at org.eclipse.cdt.dsf.concurrent.Sequence.abortExecution(Sequence.java:582)
+	at org.eclipse.cdt.dsf.concurrent.Sequence.access$4(Sequence.java:574)
+	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleErrorOrWarning(Sequence.java:431)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleFailure(RequestMonitor.java:424)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:387)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:312)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+!SUBENTRY 1 ilg.gnumcueclipse.debug.gdbjtag 4 5010 2017-11-08 20:50:06.427
+!MESSAGE Starting OpenOCD timed out.
+
+!ENTRY org.eclipse.core.jobs 4 2 2017-11-08 20:50:13.892
+!MESSAGE An internal error occurred during: "Starting OpenOCD".
+!STACK 0
+java.lang.IllegalStateException: RequestMonitor: Sequence "", result for executing step #1 = Status ERROR: org.eclipse.cdt.dsf code=10005 Request for monitor: 'RequestMonitor (ilg.gnumcueclipse.debug.gdbjtag.dsf.GnuArmGdbServerBackend$GdbServerStep$1@1665017): Status OK: unknown code=0 OK null' resulted in a rejected execution exception. null, done() method called more than once
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.done(RequestMonitor.java:285)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleRejectedExecutionException(RequestMonitor.java:517)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.done(RequestMonitor.java:320)
+	at ilg.gnumcueclipse.debug.gdbjtag.dsf.GnuArmGdbServerBackend$GdbServerStep$2.run(GnuArmGdbServerBackend.java:806)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:50:43.826
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:50:45.734
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:50:45.737
+!MESSAGE C:\Microsemi\SoftConsole_v5.2.0.12\eclipse\/../openocd/bin/openocd.exe -c gdb_port 3333 -c telnet_port 4444 --command set JTAG_KHZ 4000 --command set FPGA_TAP N --command set DEVICE GD450 --file board/microsemi-cortex-m3.cfg -c echo "Started by GNU MCU Eclipse"
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:50:46.007
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:50:46.011
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.openocd 4 1 2017-11-08 20:50:47.898
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
