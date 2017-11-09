@@ -1,0 +1,113 @@
+gd32firmware/Library/Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_adc.o: \
+ ../gd32firmware/Library/Firmware/GD32F4xx_standard_peripheral/Source/gd32f4xx_adc.c \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_adc.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc/gd32f4xx.h \
+ C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cm4.h \
+ C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cmInstr.h \
+ C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/cmsis_gcc.h \
+ C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cmFunc.h \
+ C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cmSimd.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc/system_gd32f4xx.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc/gd32f4xx_libopt.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_can.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_crc.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ctc.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dac.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dbg.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dci.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dma.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_enet.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exmc.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exti.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fmc.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fwdgt.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_gpio.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_syscfg.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_i2c.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ipa.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_iref.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_pmu.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rcu.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rtc.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_sdio.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_spi.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_timer.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_tli.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_trng.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_usart.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_wwdgt.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_misc.h
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_adc.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc/gd32f4xx.h:
+
+C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cm4.h:
+
+C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cmInstr.h:
+
+C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/cmsis_gcc.h:
+
+C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cmFunc.h:
+
+C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include/core_cmSimd.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc/system_gd32f4xx.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc/gd32f4xx_libopt.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_can.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_crc.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ctc.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dac.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dbg.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dci.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_dma.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_enet.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exmc.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_exti.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fmc.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_fwdgt.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_gpio.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_syscfg.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_i2c.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_ipa.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_iref.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_pmu.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rcu.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_rtc.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_sdio.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_spi.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_timer.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_tli.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_trng.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_usart.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_wwdgt.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include/gd32f4xx_misc.h:

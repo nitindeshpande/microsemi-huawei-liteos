@@ -1,0 +1,69 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/def.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/dhcp.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/dns.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/init.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/lwip_timers.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/mem.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/memp.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/netif.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/pbuf.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/raw.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/stats.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/sys.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/tcp.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/tcp_in.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/tcp_out.c \
+../gd32firmware/Third_party/lwip-1.4.1/src/core/udp.c 
+
+OBJS += \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/def.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/dhcp.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/dns.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/init.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/lwip_timers.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/mem.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/memp.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/netif.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/pbuf.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/raw.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/stats.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/sys.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/tcp.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/tcp_in.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/tcp_out.o \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/udp.o 
+
+C_DEPS += \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/def.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/dhcp.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/dns.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/init.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/lwip_timers.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/mem.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/memp.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/netif.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/pbuf.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/raw.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/stats.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/sys.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/tcp.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/tcp_in.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/tcp_out.d \
+./gd32firmware/Third_party/lwip-1.4.1/src/core/udp.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+gd32firmware/Third_party/lwip-1.4.1/src/core/%.o: ../gd32firmware/Third_party/lwip-1.4.1/src/core/%.c
+	@echo 'Building file: $<'
+	@echo 'Invoking: Cross ARM GNU C Compiler'
+	arm-none-eabi-gcc -mcpu=cortex-m4 -march=armv7e-m -mthumb -mthumb-interwork -mfloat-abi=hard -mfpu=fpv4-sp-d16 -munaligned-access -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -DGD32F4XX -DOC_SERVER -DOC_IPV4 -DUSE_STDPERIPH_DRIVER -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\config" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\cmsis" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\cpu\arm\cortex-m4" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\link\gcc" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\Platform-GD32F450i-EVAL" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\example\include" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\GD32F4xx_standard_peripheral\Include" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Utilities" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\demo\inc" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\src\include" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\src\include\ipv4" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\src\include\netif" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\src\include\lwip" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx\FreeRTOS" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\port\GD32F4xx\arch" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Library\Firmware\CMSIS" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\src\api" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\gd32firmware\Third_party\lwip-1.4.1\src\core\ipv6" -std=gnu11 --specs=cmsis.specs -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -c -o "$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

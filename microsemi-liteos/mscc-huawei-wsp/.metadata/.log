@@ -117,3 +117,267 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2017-11-09 17:19:01.913
 !MESSAGE Indexed 'sc-gd450i-board-test' (125 sources, 255 headers) in 3.16 sec: 15,408 declarations; 83,951 references; 1 unresolved inclusions; 1 syntax errors; 57 unresolved names (0.057%)
+!SESSION 2017-11-09 17:31:39.734 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-09 17:31:46.401
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.726
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.767
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.949
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.967
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.975
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.979
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:47.983
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.debug.gdbjtag.restart 4 1 2017-11-09 17:31:48.029
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+!SESSION 2017-11-09 17:36:21.630 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-09 17:36:47.052
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.878
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.900
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.936
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.947
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.951
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.954
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.956
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:52.982
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:53.991
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:53.996
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:53.998
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:54.005
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:54.009
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:54.011
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:54.013
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:36:54.035
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+!SESSION 2017-11-09 17:45:51.665 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-09 17:46:24.626
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.077
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.100
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.138
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.148
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.153
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.156
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.158
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:27.184
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.146
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.152
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.154
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.162
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.166
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.169
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.171
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:46:28.191
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.399
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.404
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.406
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.413
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.417
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.419
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.421
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:07.440
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-09 17:48:11.507
+!MESSAGE Indexed 'sc-gd450i-board-test' (125 sources, 255 headers) in 4.02 sec: 15,408 declarations; 83,951 references; 1 unresolved inclusions; 1 syntax errors; 57 unresolved names (0.057%)
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.115
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.124
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.127
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.137
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.143
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.146
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.148
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:23.173
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:25.104
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:48:25.125
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-09 17:48:27.724
+!MESSAGE Indexed 'sc-gd450i-iot-ocf-server' (171 sources, 346 headers) in 4.48 sec: 19,929 declarations; 97,662 references; 4 unresolved inclusions; 84 syntax errors; 79 unresolved names (0.067%)
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:12.051
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:12.089
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:12.096
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:12.101
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:12.118
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:12.140
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:13.174
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:49:13.176
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:17.926
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:17.964
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:17.970
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:17.972
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:17.986
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:18.010
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
