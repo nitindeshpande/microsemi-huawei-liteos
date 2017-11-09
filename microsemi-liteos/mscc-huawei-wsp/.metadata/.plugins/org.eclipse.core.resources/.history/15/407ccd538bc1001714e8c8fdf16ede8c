@@ -1,5 +1,0 @@
-iotivity-constrained/api/oc_base64.o: \
- ../iotivity-constrained/api/oc_base64.c \
- D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained\include/oc_base64.h
-
-D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained\include/oc_base64.h:

@@ -1,5 +1,0 @@
-iotivity-constrained/deps/tinycbor/src/cborparser_dup_string.o: \
- ../iotivity-constrained/deps/tinycbor/src/cborparser_dup_string.c \
- ../iotivity-constrained/deps/tinycbor/src/cbor.h
-
-../iotivity-constrained/deps/tinycbor/src/cbor.h:

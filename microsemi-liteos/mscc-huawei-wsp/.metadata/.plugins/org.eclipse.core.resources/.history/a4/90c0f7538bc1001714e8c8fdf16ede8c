@@ -1,2 +1,0 @@
-kernel/cpu/arm/cortex-m4/los_dispatch_gcc.o: \
- ../kernel/cpu/arm/cortex-m4/los_dispatch_gcc.S

@@ -1,5 +1,0 @@
-iotivity-constrained/util/oc_list.o: \
- ../iotivity-constrained/util/oc_list.c \
- ../iotivity-constrained/util/oc_list.h
-
-../iotivity-constrained/util/oc_list.h:

@@ -1,5 +1,0 @@
-iotivity-constrained/deps/tinycbor/src/cborerrorstrings.o: \
- ../iotivity-constrained/deps/tinycbor/src/cborerrorstrings.c \
- ../iotivity-constrained/deps/tinycbor/src/cbor.h
-
-../iotivity-constrained/deps/tinycbor/src/cbor.h:

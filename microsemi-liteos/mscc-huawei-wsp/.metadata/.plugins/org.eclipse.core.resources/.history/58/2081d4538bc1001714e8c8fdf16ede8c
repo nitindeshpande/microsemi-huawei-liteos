@@ -1,7 +1,0 @@
-iotivity-constrained/api/oc_uuid.o: ../iotivity-constrained/api/oc_uuid.c \
- D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained\include/oc_uuid.h \
- D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained/port/oc_random.h
-
-D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained\include/oc_uuid.h:
-
-D:\share\Firmware_Projects\RISC5\Microsemi-Huawei\GD450I\sc-gd450i-iot-ocf-server\iotivity-constrained/port/oc_random.h:
