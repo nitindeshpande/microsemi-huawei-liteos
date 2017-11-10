@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -51,3 +52,13 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+#SC workspace metadata excludes
+.lock
+.log
+.history/*
+*.history
+*.index
+.indexes
+.mylyn
+.refactorings
+.snap
