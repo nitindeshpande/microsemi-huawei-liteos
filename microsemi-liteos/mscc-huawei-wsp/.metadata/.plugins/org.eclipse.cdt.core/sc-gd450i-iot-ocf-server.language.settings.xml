@@ -4,22 +4,10 @@
 		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
 			<provider id="ilg.gnuarmeclipse.managedbuild.cross.GCCBuiltinSpecsDetector">
 				<language id="org.eclipse.cdt.core.gcc">
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/kernel/base/include">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/kernel/include">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/kernel/config">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/kernel/cmsis">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/kernel/cpu/arm/cortex-m4">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/kernel/link/keil">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/Platform-GD32F450i-EVAL">
@@ -28,49 +16,7 @@
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/example/include">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Library/Firmware/GD32F4xx_standard_peripheral/Include">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Library/Utilities">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/demo/inc">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/src/include">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/src/include/ipv4">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/src/include/netif">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/src/include/lwip">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/port/GD32F4xx">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/port/GD32F4xx/FreeRTOS">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/port/GD32F4xx/arch">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Library/Firmware/CMSIS">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/microcoap">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/include">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/messaging/coap">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/security">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/util">
@@ -79,34 +25,10 @@
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/port">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/deps/tinycbor/src">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/deps/tinydtls">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
 					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/api">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/port/liteos">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/src/api">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/gd32firmware/Third_party/lwip-1.4.1/src/core/ipv6">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/deps/tinycbor/examples">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/deps/tinycbor/tools/cbordump">
-						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
-					</entry>
-					<entry kind="includePath" name="/sc-gd450i-iot-ocf-server/iotivity-constrained/deps/tinycbor/tools/json2cbor">
 						<flag value="BUILTIN|READONLY|VALUE_WORKSPACE_PATH|RESOLVED"/>
 					</entry>
 					<entry kind="includePath" name="C:/Microsemi/SoftConsole_v5.2.0.12/CMSIS/V4.5/Include">

@@ -2203,3 +2203,295 @@ arm-none-eabi-size --format=berkeley "sc-gd450i-iot-ocf-server.elf"
  134840	   1792	 125504	 262136	  3fff8	sc-gd450i-iot-ocf-server.elf
 Finished building: sc-gd450i-iot-ocf-server.siz
  
+06:29:56 **** Build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make all 
+Command canceled
+06:30:45 **** Clean-only build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make clean 
+rm -rf  ./riscv_hal/entry.o ./riscv_hal/init.o ./riscv_hal/riscv_hal.o ./riscv_hal/riscv_hal_stubs.o ./riscv_hal/syscall.o  ./hal/hal_irq.o ./hal/hw_reg_access.o  ./drivers/CoreUARTapb/core_uart_apb.o  ./drivers/CoreGPIO/core_gpio.o  ./main.o  sc-riscv-wifi-ping-test.hex  sc-riscv-wifi-ping-test.lst  sc-riscv-wifi-ping-test.siz  ./riscv_hal/entry.d  ./hal/hw_reg_access.d  ./riscv_hal/init.d ./riscv_hal/riscv_hal.d ./riscv_hal/riscv_hal_stubs.d ./riscv_hal/syscall.d  ./hal/hal_irq.d  ./drivers/CoreUARTapb/core_uart_apb.d  ./drivers/CoreGPIO/core_gpio.d  ./main.d  sc-riscv-wifi-ping-test.elf
+ 
+06:30:45 **** Build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make all 
+Building file: ../riscv_hal/entry.S
+Invoking: GNU RISC-V Cross Assembler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -x assembler-with-cpp -MMD -MP -MF"riscv_hal/entry.d" -MT"riscv_hal/entry.o" -c -o "riscv_hal/entry.o" "../riscv_hal/entry.S"
+Finished building: ../riscv_hal/entry.S
+ 
+Building file: ../riscv_hal/init.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/init.d" -MT"riscv_hal/init.o" -c -o "riscv_hal/init.o" "../riscv_hal/init.c"
+Finished building: ../riscv_hal/init.c
+ 
+Building file: ../riscv_hal/riscv_hal.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/riscv_hal.d" -MT"riscv_hal/riscv_hal.o" -c -o "riscv_hal/riscv_hal.o" "../riscv_hal/riscv_hal.c"
+Finished building: ../riscv_hal/riscv_hal.c
+ 
+Building file: ../riscv_hal/riscv_hal_stubs.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/riscv_hal_stubs.d" -MT"riscv_hal/riscv_hal_stubs.o" -c -o "riscv_hal/riscv_hal_stubs.o" "../riscv_hal/riscv_hal_stubs.c"
+Finished building: ../riscv_hal/riscv_hal_stubs.c
+ 
+Building file: ../riscv_hal/syscall.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/syscall.d" -MT"riscv_hal/syscall.o" -c -o "riscv_hal/syscall.o" "../riscv_hal/syscall.c"
+Finished building: ../riscv_hal/syscall.c
+ 
+Building file: ../hal/hal_irq.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"hal/hal_irq.d" -MT"hal/hal_irq.o" -c -o "hal/hal_irq.o" "../hal/hal_irq.c"
+Finished building: ../hal/hal_irq.c
+ 
+Building file: ../hal/hw_reg_access.S
+Invoking: GNU RISC-V Cross Assembler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -x assembler-with-cpp -MMD -MP -MF"hal/hw_reg_access.d" -MT"hal/hw_reg_access.o" -c -o "hal/hw_reg_access.o" "../hal/hw_reg_access.S"
+Finished building: ../hal/hw_reg_access.S
+ 
+Building file: ../drivers/CoreUARTapb/core_uart_apb.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"drivers/CoreUARTapb/core_uart_apb.d" -MT"drivers/CoreUARTapb/core_uart_apb.o" -c -o "drivers/CoreUARTapb/core_uart_apb.o" "../drivers/CoreUARTapb/core_uart_apb.c"
+Finished building: ../drivers/CoreUARTapb/core_uart_apb.c
+ 
+Building file: ../drivers/CoreGPIO/core_gpio.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"drivers/CoreGPIO/core_gpio.d" -MT"drivers/CoreGPIO/core_gpio.o" -c -o "drivers/CoreGPIO/core_gpio.o" "../drivers/CoreGPIO/core_gpio.c"
+Finished building: ../drivers/CoreGPIO/core_gpio.c
+ 
+Building file: ../main.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+../main.c:23:7: warning: type defaults to 'int' in declaration of 'OK' [-Wimplicit-int]
+ const OK = 1;
+       ^~
+../main.c:24:7: warning: type defaults to 'int' in declaration of 'ERROR' [-Wimplicit-int]
+ const ERROR = 2;
+       ^~~~~
+../main.c:25:7: warning: type defaults to 'int' in declaration of 'NO_CHANGE' [-Wimplicit-int]
+ const NO_CHANGE = 3;
+       ^~~~~~~~~
+../main.c:26:7: warning: type defaults to 'int' in declaration of 'FAIL' [-Wimplicit-int]
+ const FAIL = 4;
+       ^~~~
+../main.c:27:7: warning: type defaults to 'int' in declaration of 'READY' [-Wimplicit-int]
+ const READY = 5;
+       ^~~~~
+../main.c: In function 'reset_buff':
+../main.c:163:5: warning: implicit declaration of function 'memset' [-Wimplicit-function-declaration]
+     memset(rx_buff,0,sizeof(rx_buff));
+     ^~~~~~
+../main.c:163:5: warning: incompatible implicit declaration of built-in function 'memset'
+../main.c:163:5: note: include '<string.h>' or provide a declaration of 'memset'
+../main.c: In function 'read_response':
+../main.c:197:34: warning: passing argument 2 of 'UART_polled_tx_string' from incompatible pointer type [-Wincompatible-pointer-types]
+    UART_polled_tx_string(&g_uart,&rx_buff);
+                                  ^
+In file included from ../main.c:11:0:
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb/core_uart_apb.h:344:1: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'uint8_t (*)[3000] {aka unsigned char (*)[3000]}'
+ UART_polled_tx_string
+ ^~~~~~~~~~~~~~~~~~~~~
+../main.c: In function 'response_success':
+../main.c:214:9: warning: implicit declaration of function 'strstr' [-Wimplicit-function-declaration]
+     if((strstr(resp,"OK")) || (strstr(resp,"no change")) || (strstr(resp,"ready")))
+         ^~~~~~
+../main.c:214:9: warning: incompatible implicit declaration of built-in function 'strstr'
+../main.c:214:9: note: include '<string.h>' or provide a declaration of 'strstr'
+../main.c: In function 'main':
+../main.c:255:5: warning: implicit declaration of function 'HAL_enable_interrupts'; did you mean 'raise_soft_interrupt'? [-Wimplicit-function-declaration]
+     HAL_enable_interrupts();
+     ^~~~~~~~~~~~~~~~~~~~~
+     raise_soft_interrupt
+Finished building: ../main.c
+ 
+Building target: sc-riscv-wifi-ping-test.elf
+Invoking: GNU RISC-V Cross C Linker
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal\microsemi-riscv-ram.ld" -nostartfiles -Xlinker --gc-sections -Wl,-Map,"sc-riscv-wifi-ping-test.map" --specs=nano.specs -o "sc-riscv-wifi-ping-test.elf"  ./riscv_hal/entry.o ./riscv_hal/init.o ./riscv_hal/riscv_hal.o ./riscv_hal/riscv_hal_stubs.o ./riscv_hal/syscall.o  ./hal/hal_irq.o ./hal/hw_reg_access.o  ./drivers/CoreUARTapb/core_uart_apb.o  ./drivers/CoreGPIO/core_gpio.o  ./main.o   
+Finished building target: sc-riscv-wifi-ping-test.elf
+ 
+Invoking: GNU RISC-V Cross Create Flash Image
+riscv64-unknown-elf-objcopy -O ihex "sc-riscv-wifi-ping-test.elf"  "sc-riscv-wifi-ping-test.hex"
+Finished building: sc-riscv-wifi-ping-test.hex
+ 
+Invoking: GNU RISC-V Cross Create Listing
+riscv64-unknown-elf-objdump --source --all-headers --demangle --line-numbers --wide "sc-riscv-wifi-ping-test.elf" > "sc-riscv-wifi-ping-test.lst"
+Finished building: sc-riscv-wifi-ping-test.lst
+ 
+Invoking: GNU RISC-V Cross Print Size
+riscv64-unknown-elf-size --format=berkeley "sc-riscv-wifi-ping-test.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8576	    240	   7392	  16208	   3f50	sc-riscv-wifi-ping-test.elf
+Finished building: sc-riscv-wifi-ping-test.siz
+ 
+06:32:35 **** Incremental Build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make all 
+Invoking: GNU RISC-V Cross Print Size
+riscv64-unknown-elf-size --format=berkeley "sc-riscv-wifi-ping-test.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8576	    240	   7392	  16208	   3f50	sc-riscv-wifi-ping-test.elf
+Finished building: sc-riscv-wifi-ping-test.siz
+ 
+06:33:04 **** Clean-only build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make clean 
+rm -rf  ./riscv_hal/entry.o ./riscv_hal/init.o ./riscv_hal/riscv_hal.o ./riscv_hal/riscv_hal_stubs.o ./riscv_hal/syscall.o  ./hal/hal_irq.o ./hal/hw_reg_access.o  ./drivers/CoreUARTapb/core_uart_apb.o  ./drivers/CoreGPIO/core_gpio.o  ./main.o  sc-riscv-wifi-ping-test.hex  sc-riscv-wifi-ping-test.lst  sc-riscv-wifi-ping-test.siz  ./riscv_hal/entry.d  ./hal/hw_reg_access.d  ./riscv_hal/init.d ./riscv_hal/riscv_hal.d ./riscv_hal/riscv_hal_stubs.d ./riscv_hal/syscall.d  ./hal/hal_irq.d  ./drivers/CoreUARTapb/core_uart_apb.d  ./drivers/CoreGPIO/core_gpio.d  ./main.d  sc-riscv-wifi-ping-test.elf
+ 
+06:33:04 **** Build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make all 
+Building file: ../riscv_hal/entry.S
+Invoking: GNU RISC-V Cross Assembler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -x assembler-with-cpp -MMD -MP -MF"riscv_hal/entry.d" -MT"riscv_hal/entry.o" -c -o "riscv_hal/entry.o" "../riscv_hal/entry.S"
+Finished building: ../riscv_hal/entry.S
+ 
+Building file: ../riscv_hal/init.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/init.d" -MT"riscv_hal/init.o" -c -o "riscv_hal/init.o" "../riscv_hal/init.c"
+Finished building: ../riscv_hal/init.c
+ 
+Building file: ../riscv_hal/riscv_hal.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/riscv_hal.d" -MT"riscv_hal/riscv_hal.o" -c -o "riscv_hal/riscv_hal.o" "../riscv_hal/riscv_hal.c"
+Finished building: ../riscv_hal/riscv_hal.c
+ 
+Building file: ../riscv_hal/riscv_hal_stubs.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/riscv_hal_stubs.d" -MT"riscv_hal/riscv_hal_stubs.o" -c -o "riscv_hal/riscv_hal_stubs.o" "../riscv_hal/riscv_hal_stubs.c"
+Finished building: ../riscv_hal/riscv_hal_stubs.c
+ 
+Building file: ../riscv_hal/syscall.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"riscv_hal/syscall.d" -MT"riscv_hal/syscall.o" -c -o "riscv_hal/syscall.o" "../riscv_hal/syscall.c"
+Finished building: ../riscv_hal/syscall.c
+ 
+Building file: ../hal/hal_irq.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"hal/hal_irq.d" -MT"hal/hal_irq.o" -c -o "hal/hal_irq.o" "../hal/hal_irq.c"
+Finished building: ../hal/hal_irq.c
+ 
+Building file: ../hal/hw_reg_access.S
+Invoking: GNU RISC-V Cross Assembler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -x assembler-with-cpp -MMD -MP -MF"hal/hw_reg_access.d" -MT"hal/hw_reg_access.o" -c -o "hal/hw_reg_access.o" "../hal/hw_reg_access.S"
+Finished building: ../hal/hw_reg_access.S
+ 
+Building file: ../drivers/CoreUARTapb/core_uart_apb.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"drivers/CoreUARTapb/core_uart_apb.d" -MT"drivers/CoreUARTapb/core_uart_apb.o" -c -o "drivers/CoreUARTapb/core_uart_apb.o" "../drivers/CoreUARTapb/core_uart_apb.c"
+Finished building: ../drivers/CoreUARTapb/core_uart_apb.c
+ 
+Building file: ../drivers/CoreGPIO/core_gpio.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"drivers/CoreGPIO/core_gpio.d" -MT"drivers/CoreGPIO/core_gpio.o" -c -o "drivers/CoreGPIO/core_gpio.o" "../drivers/CoreGPIO/core_gpio.c"
+Finished building: ../drivers/CoreGPIO/core_gpio.c
+ 
+Building file: ../main.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+../main.c:23:7: warning: type defaults to 'int' in declaration of 'OK' [-Wimplicit-int]
+ const OK = 1;
+       ^~
+../main.c:24:7: warning: type defaults to 'int' in declaration of 'ERROR' [-Wimplicit-int]
+ const ERROR = 2;
+       ^~~~~
+../main.c:25:7: warning: type defaults to 'int' in declaration of 'NO_CHANGE' [-Wimplicit-int]
+ const NO_CHANGE = 3;
+       ^~~~~~~~~
+../main.c:26:7: warning: type defaults to 'int' in declaration of 'FAIL' [-Wimplicit-int]
+ const FAIL = 4;
+       ^~~~
+../main.c:27:7: warning: type defaults to 'int' in declaration of 'READY' [-Wimplicit-int]
+ const READY = 5;
+       ^~~~~
+../main.c: In function 'reset_buff':
+../main.c:163:5: warning: implicit declaration of function 'memset' [-Wimplicit-function-declaration]
+     memset(rx_buff,0,sizeof(rx_buff));
+     ^~~~~~
+../main.c:163:5: warning: incompatible implicit declaration of built-in function 'memset'
+../main.c:163:5: note: include '<string.h>' or provide a declaration of 'memset'
+../main.c: In function 'read_response':
+../main.c:197:34: warning: passing argument 2 of 'UART_polled_tx_string' from incompatible pointer type [-Wincompatible-pointer-types]
+    UART_polled_tx_string(&g_uart,&rx_buff);
+                                  ^
+In file included from ../main.c:11:0:
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb/core_uart_apb.h:344:1: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'uint8_t (*)[3000] {aka unsigned char (*)[3000]}'
+ UART_polled_tx_string
+ ^~~~~~~~~~~~~~~~~~~~~
+../main.c: In function 'response_success':
+../main.c:214:9: warning: implicit declaration of function 'strstr' [-Wimplicit-function-declaration]
+     if((strstr(resp,"OK")) || (strstr(resp,"no change")) || (strstr(resp,"ready")))
+         ^~~~~~
+../main.c:214:9: warning: incompatible implicit declaration of built-in function 'strstr'
+../main.c:214:9: note: include '<string.h>' or provide a declaration of 'strstr'
+../main.c: In function 'main':
+../main.c:255:5: warning: implicit declaration of function 'HAL_enable_interrupts'; did you mean 'raise_soft_interrupt'? [-Wimplicit-function-declaration]
+     HAL_enable_interrupts();
+     ^~~~~~~~~~~~~~~~~~~~~
+     raise_soft_interrupt
+Finished building: ../main.c
+ 
+Building target: sc-riscv-wifi-ping-test.elf
+Invoking: GNU RISC-V Cross C Linker
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal\microsemi-riscv-ram.ld" -nostartfiles -Xlinker --gc-sections -Wl,-Map,"sc-riscv-wifi-ping-test.map" --specs=nano.specs -o "sc-riscv-wifi-ping-test.elf"  ./riscv_hal/entry.o ./riscv_hal/init.o ./riscv_hal/riscv_hal.o ./riscv_hal/riscv_hal_stubs.o ./riscv_hal/syscall.o  ./hal/hal_irq.o ./hal/hw_reg_access.o  ./drivers/CoreUARTapb/core_uart_apb.o  ./drivers/CoreGPIO/core_gpio.o  ./main.o   
+Finished building target: sc-riscv-wifi-ping-test.elf
+ 
+Invoking: GNU RISC-V Cross Create Flash Image
+riscv64-unknown-elf-objcopy -O ihex "sc-riscv-wifi-ping-test.elf"  "sc-riscv-wifi-ping-test.hex"
+Finished building: sc-riscv-wifi-ping-test.hex
+ 
+Invoking: GNU RISC-V Cross Create Listing
+riscv64-unknown-elf-objdump --source --all-headers --demangle --line-numbers --wide "sc-riscv-wifi-ping-test.elf" > "sc-riscv-wifi-ping-test.lst"
+Finished building: sc-riscv-wifi-ping-test.lst
+ 
+Invoking: GNU RISC-V Cross Print Size
+riscv64-unknown-elf-size --format=berkeley "sc-riscv-wifi-ping-test.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8576	    240	   7392	  16208	   3f50	sc-riscv-wifi-ping-test.elf
+Finished building: sc-riscv-wifi-ping-test.siz
+ 
+06:33:30 **** Incremental Build of configuration Debug for project sc-riscv-wifi-ping-test ****
+make all 
+Building file: ../main.c
+Invoking: GNU RISC-V Cross C Compiler
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreGPIO" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\hal" -I"C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal" -std=gnu11 -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+../main.c: In function 'reset_buff':
+../main.c:163:5: warning: implicit declaration of function 'memset' [-Wimplicit-function-declaration]
+     memset(rx_buff,0,sizeof(rx_buff));
+     ^~~~~~
+../main.c:163:5: warning: incompatible implicit declaration of built-in function 'memset'
+../main.c:163:5: note: include '<string.h>' or provide a declaration of 'memset'
+../main.c: In function 'read_response':
+../main.c:197:34: warning: passing argument 2 of 'UART_polled_tx_string' from incompatible pointer type [-Wincompatible-pointer-types]
+    UART_polled_tx_string(&g_uart,&rx_buff);
+                                  ^
+In file included from ../main.c:11:0:
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\drivers\CoreUARTapb/core_uart_apb.h:344:1: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'uint8_t (*)[3000] {aka unsigned char (*)[3000]}'
+ UART_polled_tx_string
+ ^~~~~~~~~~~~~~~~~~~~~
+../main.c: In function 'response_success':
+../main.c:214:9: warning: implicit declaration of function 'strstr' [-Wimplicit-function-declaration]
+     if((strstr(resp,"OK")) || (strstr(resp,"no change")) || (strstr(resp,"ready")))
+         ^~~~~~
+../main.c:214:9: warning: incompatible implicit declaration of built-in function 'strstr'
+../main.c:214:9: note: include '<string.h>' or provide a declaration of 'strstr'
+../main.c: In function 'main':
+../main.c:255:5: warning: implicit declaration of function 'HAL_enable_interrupts'; did you mean 'raise_soft_interrupt'? [-Wimplicit-function-declaration]
+     HAL_enable_interrupts();
+     ^~~~~~~~~~~~~~~~~~~~~
+     raise_soft_interrupt
+Finished building: ../main.c
+ 
+Building target: sc-riscv-wifi-ping-test.elf
+Invoking: GNU RISC-V Cross C Linker
+riscv64-unknown-elf-gcc -march=rv32im -mabi=ilp32 -msmall-data-limit=8 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-riscv-wifi-ping-test\riscv_hal\microsemi-riscv-ram.ld" -nostartfiles -Xlinker --gc-sections -Wl,-Map,"sc-riscv-wifi-ping-test.map" --specs=nano.specs -o "sc-riscv-wifi-ping-test.elf"  ./riscv_hal/entry.o ./riscv_hal/init.o ./riscv_hal/riscv_hal.o ./riscv_hal/riscv_hal_stubs.o ./riscv_hal/syscall.o  ./hal/hal_irq.o ./hal/hw_reg_access.o  ./drivers/CoreUARTapb/core_uart_apb.o  ./drivers/CoreGPIO/core_gpio.o  ./main.o   
+Finished building target: sc-riscv-wifi-ping-test.elf
+ 
+Invoking: GNU RISC-V Cross Create Flash Image
+riscv64-unknown-elf-objcopy -O ihex "sc-riscv-wifi-ping-test.elf"  "sc-riscv-wifi-ping-test.hex"
+Finished building: sc-riscv-wifi-ping-test.hex
+ 
+Invoking: GNU RISC-V Cross Create Listing
+riscv64-unknown-elf-objdump --source --all-headers --demangle --line-numbers --wide "sc-riscv-wifi-ping-test.elf" > "sc-riscv-wifi-ping-test.lst"
+Finished building: sc-riscv-wifi-ping-test.lst
+ 
+Invoking: GNU RISC-V Cross Print Size
+riscv64-unknown-elf-size --format=berkeley "sc-riscv-wifi-ping-test.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8576	    240	   7392	  16208	   3f50	sc-riscv-wifi-ping-test.elf
+Finished building: sc-riscv-wifi-ping-test.siz
+ 

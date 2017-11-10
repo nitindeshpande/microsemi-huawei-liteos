@@ -381,3 +381,676 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-09 17:50:18.010
 !MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+!SESSION 2017-11-10 06:14:15.397 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-10 06:14:34.351
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:36.734
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:36.742
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:36.988
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.004
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.011
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.013
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.016
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.052
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.369
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.418
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.421
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.428
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.432
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.434
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.436
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:14:37.457
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+!SESSION 2017-11-10 06:18:09.146 -----------------------------------------------
+eclipse.buildId=4.7.0.I20170612-0950
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86 -pluginCustomization plugin_customization.ini -data C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-10 06:18:14.043
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nitin.deshpande'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.139
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.182
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.240
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.252
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.257
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.259
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.263
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.286
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.467
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.471
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.473
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.481
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.485
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.487
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.489
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:21:05.511
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.905
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.911
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.913
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.921
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.925
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.927
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.929
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:01.949
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:22:02.107
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:24:06.588
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:24:06.590
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:24:06.608
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross 4 1 2017-11-10 06:24:06.628
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-10 06:28:46.577
+!MESSAGE Indexed 'sc-riscv-wifi-ping-test' (8 sources, 14 headers) in 0.189 sec: 678 declarations; 1,409 references; 19 unresolved inclusions; 0 syntax errors; 338 unresolved names (14%)
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.030
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.035
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.038
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.046
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.049
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.052
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.053
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.064
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.083
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.087
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.090
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.097
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.101
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.103
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.104
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.113
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.118
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.455
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:02.765
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.123
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.127
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.130
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.138
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.142
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.144
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.146
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.158
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.167
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.571
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.574
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.577
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.586
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:03.621
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY org.eclipse.core.jobs 4 2 2017-11-10 06:35:03.953
+!MESSAGE Deadlock detected. All locks owned by thread Worker-27 will be suspended.
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.core.internal.jobs.DeadlockDetector.reportDeadlock(DeadlockDetector.java:599)
+	at org.eclipse.core.internal.jobs.DeadlockDetector.lockWaitStart(DeadlockDetector.java:403)
+	at org.eclipse.core.internal.jobs.LockManager.addLockWaitThread(LockManager.java:154)
+	at org.eclipse.core.internal.jobs.OrderedLock.doAcquire(OrderedLock.java:168)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:106)
+	at org.eclipse.core.internal.jobs.OrderedLock.acquire(OrderedLock.java:82)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.loadLanguageSettings(LanguageSettingsProvidersSerializer.java:1151)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.loadProjectDescription(XmlProjectDescriptionStorage.java:499)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.getProjectDescription(XmlProjectDescriptionStorage.java:237)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescriptionInternal(CProjectDescriptionManager.java:426)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:408)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:402)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.getProjectDescription(CProjectDescriptionManager.java:395)
+	at org.eclipse.cdt.internal.core.model.CProject.computeSourceRoots(CProject.java:608)
+	at org.eclipse.cdt.internal.core.model.CProject.computeChildren(CProject.java:629)
+	at org.eclipse.cdt.internal.core.model.CProject.buildStructure(CProject.java:593)
+	at org.eclipse.cdt.internal.core.model.Openable.generateInfos(Openable.java:261)
+	at org.eclipse.cdt.internal.core.model.CElement.openWhenClosed(CElement.java:427)
+	at org.eclipse.cdt.internal.core.model.CElement.getElementInfo(CElement.java:305)
+	at org.eclipse.cdt.internal.core.model.CElement.getElementInfo(CElement.java:295)
+	at org.eclipse.cdt.internal.core.model.Parent.getChildren(Parent.java:55)
+	at org.eclipse.cdt.internal.core.model.CProject.getSourceRoots(CProject.java:467)
+	at org.eclipse.cdt.internal.core.model.CModelManager.create(CModelManager.java:340)
+	at org.eclipse.cdt.internal.core.model.CModelManager.create(CModelManager.java:268)
+	at org.eclipse.cdt.internal.core.model.DeltaProcessor.createElement(DeltaProcessor.java:87)
+	at org.eclipse.cdt.internal.core.model.DeltaProcessor.traverseDelta(DeltaProcessor.java:453)
+	at org.eclipse.cdt.internal.core.model.DeltaProcessor.traverseDelta(DeltaProcessor.java:471)
+	at org.eclipse.cdt.internal.core.model.DeltaProcessor.processResourceDelta(DeltaProcessor.java:433)
+	at org.eclipse.cdt.internal.core.model.CModelManager.resourceChanged(CModelManager.java:922)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SUBENTRY 1 org.eclipse.core.jobs 4 2 2017-11-10 06:35:03.969
+!MESSAGE Thread Worker-27 has locks: OrderedLock (0), OrderedLock (27) and is waiting for lock OrderedLock (6)
+!SUBENTRY 1 org.eclipse.core.jobs 4 2 2017-11-10 06:35:03.969
+!MESSAGE Thread Worker-1 has locks: P/sc-gd450i-iot-ocf-server, F/sc-gd450i-iot-ocf-server/kernel, OrderedLock (6) and is waiting for lock OrderedLock (0)
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.021
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.025
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.028
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.036
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.041
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.043
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.045
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.056
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.091
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.328
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.331
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.334
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.347
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.379
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.637
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.868
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.870
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.874
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Debug") = ""
+
+!ENTRY ilg.gnumcueclipse.managedbuild.cross.riscv 4 1 2017-11-10 06:35:04.884
+!MESSAGE arm.PathEnvironmentVariable.resolveMacros("${eclipse_home}/../build_tools/bin;${eclipse_home}/../arm-none-eabi-gcc/bin", "Release") = ""
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-10 06:35:16.233
+!MESSAGE Indexed 'sc-gd450i-iot-ocf-server' (171 sources, 346 headers) in 10.3 sec: 19,929 declarations; 97,662 references; 4 unresolved inclusions; 84 syntax errors; 79 unresolved names (0.067%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-10 06:35:19.456
+!MESSAGE Indexed 'sc-gd450i-board-test' (130 sources, 261 headers) in 3.22 sec: 15,819 declarations; 84,575 references; 4 unresolved inclusions; 1 syntax errors; 207 unresolved names (0.21%)
+
+!ENTRY org.eclipse.ui 4 0 2017-11-10 06:36:52.544
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTError: Cannot set the enabled state [GetLastError=0x0]
+	at org.eclipse.swt.SWT.error(SWT.java:4559)
+	at org.eclipse.swt.widgets.MenuItem.setEnabled(MenuItem.java:754)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateMenuItem(HandledContributionItem.java:279)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.update(AbstractContributionItem.java:126)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.ui.internal.Workbench.updateActiveWorkbenchWindowMenuManager(Workbench.java:3236)
+	at org.eclipse.ui.internal.Workbench.lambda$0(Workbench.java:3218)
+	at org.eclipse.jface.bindings.BindingManager.fireBindingManagerChanged(BindingManager.java:899)
+	at org.eclipse.jface.bindings.BindingManager.setActiveBindings(BindingManager.java:2179)
+	at org.eclipse.jface.bindings.BindingManager.recomputeBindings(BindingManager.java:1740)
+	at org.eclipse.jface.bindings.BindingManager.contextManagerChanged(BindingManager.java:689)
+	at org.eclipse.core.commands.contexts.ContextManager.fireContextManagerChanged(ContextManager.java:161)
+	at org.eclipse.core.commands.contexts.ContextManager.removeActiveContext(ContextManager.java:242)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.updateContext(ContextAuthority.java:751)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.activateContext(ContextAuthority.java:173)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.checkWindowType(ContextAuthority.java:245)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.updateEvaluationContext(ContextAuthority.java:785)
+	at org.eclipse.ui.internal.services.ExpressionAuthority.sourceChanged(ExpressionAuthority.java:289)
+	at org.eclipse.ui.AbstractSourceProvider.fireSourceChanged(AbstractSourceProvider.java:89)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.lambda$2(WorkbenchSourceProvider.java:764)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1271)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1698)
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:2277)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4840)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1657)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5178)
+	at org.eclipse.swt.internal.win32.OS.BringWindowToTop(Native Method)
+	at org.eclipse.swt.widgets.Decorations.bringToTop(Decorations.java:232)
+	at org.eclipse.swt.widgets.Shell.open(Shell.java:1270)
+	at org.eclipse.jface.window.Window.open(Window.java:790)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:396)
+	at org.eclipse.ui.internal.SaveablesList.promptForSaving(SaveablesList.java:550)
+	at org.eclipse.ui.internal.SaveablesList.promptForSavingIfNecessary(SaveablesList.java:445)
+	at org.eclipse.ui.internal.SaveablesList.preCloseParts(SaveablesList.java:401)
+	at org.eclipse.ui.internal.SaveablesList.preCloseParts(SaveablesList.java:353)
+	at org.eclipse.ui.internal.SaveablesList.preCloseParts(SaveablesList.java:348)
+	at org.eclipse.ui.internal.WorkbenchWindow$7.save(WorkbenchWindow.java:588)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.savePart(PartServiceImpl.java:1367)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.closePart(StackRenderer.java:1261)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.access$1(StackRenderer.java:1248)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer$5.close(StackRenderer.java:1117)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1950)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:333)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4238)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3817)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.eclipse.ui 4 0 2017-11-10 06:36:52.554
+!MESSAGE Error occurred during status handling
+!STACK 0
+org.eclipse.swt.SWTError: Cannot set the enabled state [GetLastError=0x57]
+	at org.eclipse.swt.SWT.error(SWT.java:4559)
+	at org.eclipse.swt.widgets.MenuItem.setEnabled(MenuItem.java:754)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateMenuItem(HandledContributionItem.java:279)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.update(AbstractContributionItem.java:126)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.ui.internal.Workbench.updateActiveWorkbenchWindowMenuManager(Workbench.java:3236)
+	at org.eclipse.ui.internal.Workbench.lambda$0(Workbench.java:3218)
+	at org.eclipse.jface.bindings.BindingManager.fireBindingManagerChanged(BindingManager.java:899)
+	at org.eclipse.jface.bindings.BindingManager.setActiveBindings(BindingManager.java:2179)
+	at org.eclipse.jface.bindings.BindingManager.recomputeBindings(BindingManager.java:1740)
+	at org.eclipse.jface.bindings.BindingManager.contextManagerChanged(BindingManager.java:689)
+	at org.eclipse.core.commands.contexts.ContextManager.fireContextManagerChanged(ContextManager.java:161)
+	at org.eclipse.core.commands.contexts.ContextManager.setEventCaching(ContextManager.java:320)
+	at org.eclipse.core.commands.contexts.ContextManager.deferUpdates(ContextManager.java:82)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.sourceChanged(ContextAuthority.java:666)
+	at org.eclipse.ui.internal.services.ExpressionAuthority.sourceChanged(ExpressionAuthority.java:312)
+	at org.eclipse.ui.internal.services.ExpressionAuthority.sourceChanged(ExpressionAuthority.java:291)
+	at org.eclipse.ui.AbstractSourceProvider.fireSourceChanged(AbstractSourceProvider.java:89)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.lambda$2(WorkbenchSourceProvider.java:764)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1271)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1698)
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:2277)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4840)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1657)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5178)
+	at org.eclipse.swt.internal.win32.OS.BringWindowToTop(Native Method)
+	at org.eclipse.swt.widgets.Decorations.bringToTop(Decorations.java:232)
+	at org.eclipse.swt.widgets.Shell.open(Shell.java:1270)
+	at org.eclipse.jface.window.Window.open(Window.java:790)
+	at org.eclipse.ui.internal.statushandlers.InternalDialog.open(InternalDialog.java:311)
+	at org.eclipse.ui.internal.statushandlers.WorkbenchStatusDialogManagerImpl.doAddStatusAdapter(WorkbenchStatusDialogManagerImpl.java:270)
+	at org.eclipse.ui.internal.statushandlers.WorkbenchStatusDialogManagerImpl.addStatusAdapter(WorkbenchStatusDialogManagerImpl.java:197)
+	at org.eclipse.ui.statushandlers.WorkbenchStatusDialogManager.addStatusAdapter(WorkbenchStatusDialogManager.java:158)
+	at org.eclipse.ui.statushandlers.WorkbenchErrorHandler.showStatusAdapter(WorkbenchErrorHandler.java:80)
+	at org.eclipse.ui.statushandlers.WorkbenchErrorHandler.handle(WorkbenchErrorHandler.java:49)
+	at org.eclipse.ui.internal.ide.IDEWorkbenchErrorHandler.handle(IDEWorkbenchErrorHandler.java:102)
+	at org.eclipse.ui.internal.WorkbenchErrorHandlerProxy.handle(WorkbenchErrorHandlerProxy.java:31)
+	at org.eclipse.ui.statushandlers.StatusManager.handle(StatusManager.java:213)
+	at org.eclipse.ui.statushandlers.StatusManager.handle(StatusManager.java:260)
+	at org.eclipse.ui.statushandlers.StatusManager.handle(StatusManager.java:271)
+	at org.eclipse.ui.application.WorkbenchAdvisor.eventLoopException(WorkbenchAdvisor.java:330)
+	at org.eclipse.ui.internal.Workbench$1.eventLoopException(Workbench.java:518)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.handle(PartRenderingEngine.java:1177)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1167)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.eclipse.equinox.event 4 0 2017-11-10 06:38:03.155
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=org/eclipse/e4/ui/model/ui/ElementContainer/selectedElement/SET] {ChangedElement=org.eclipse.e4.ui.model.application.ui.basic.impl.PartStackImpl@11c4166 (elementId: org.eclipse.e4.primaryDataStack, tags: [org.eclipse.e4.primaryDataStack, EditorStack, active, noFocus], contributorURI: null) (widget: CTabFolder {}, renderer: org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer@15eb363, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null), org.eclipse.e4.data={ChangedElement=org.eclipse.e4.ui.model.application.ui.basic.impl.PartStackImpl@11c4166 (elementId: org.eclipse.e4.primaryDataStack, tags: [org.eclipse.e4.primaryDataStack, EditorStack, active, noFocus], contributorURI: null) (widget: CTabFolder {}, renderer: org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer@15eb363, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null), AttName=selectedElement, EventType=SET, OldValue=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@33190f (elementId: org.eclipse.e4.ui.compatibility.editor, tags: [Editor, org.eclipse.ui.systemInPlaceEditor, removeOnHide, active], contributorURI: null) (widget: ContributedPartRenderer$1 {}, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@14a2887, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor@c110dd, context: PartImpl (org.eclipse.e4.ui.compatibility.editor) Context, variables: [], label: Ping Test Demo Document.docx, iconURI: null, tooltip: null, dirty: true, closeable: true, description: null), Widget=CTabFolder {}, NewValue=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@11cc4b5 (elementId: org.eclipse.e4.ui.compatibility.editor, tags: [Editor, org.eclipse.cdt.ui.editor.CEditor, removeOnHide], contributorURI: null) (widget: ContributedPartRenderer$1 {}, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@14a2887, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor@270e65, context: PartImpl (org.eclipse.e4.ui.compatibility.editor) Context, variables: [], label: main.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)}, AttName=selectedElement, EventType=SET, OldValue=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@33190f (elementId: org.eclipse.e4.ui.compatibility.editor, tags: [Editor, org.eclipse.ui.systemInPlaceEditor, removeOnHide, active], contributorURI: null) (widget: ContributedPartRenderer$1 {}, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@14a2887, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor@c110dd, context: PartImpl (org.eclipse.e4.ui.compatibility.editor) Context, variables: [], label: Ping Test Demo Document.docx, iconURI: null, tooltip: null, dirty: true, closeable: true, description: null), Widget=CTabFolder {}, NewValue=org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl@11cc4b5 (elementId: org.eclipse.e4.ui.compatibility.editor, tags: [Editor, org.eclipse.cdt.ui.editor.CEditor, removeOnHide], contributorURI: null) (widget: ContributedPartRenderer$1 {}, renderer: org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer@14a2887, toBeRendered: true, onTop: false, visible: true, containerData: null, accessibilityPhrase: null) (contributionURI: bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor, object: org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor@270e65, context: PartImpl (org.eclipse.e4.ui.compatibility.editor) Context, variables: [], label: main.c, iconURI: platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif, tooltip: null, dirty: false, closeable: true, description: null)} to handler org.eclipse.e4.ui.services.internal.events.UIEventHandler@b415c0
+!STACK 0
+org.eclipse.swt.SWTError: Cannot set the enabled state [GetLastError=0x57]
+	at org.eclipse.swt.SWT.error(SWT.java:4559)
+	at org.eclipse.swt.widgets.MenuItem.setEnabled(MenuItem.java:754)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateMenuItem(HandledContributionItem.java:279)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.update(AbstractContributionItem.java:126)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.ui.internal.Workbench.updateActiveWorkbenchWindowMenuManager(Workbench.java:3236)
+	at org.eclipse.ui.internal.Workbench.lambda$0(Workbench.java:3218)
+	at org.eclipse.jface.bindings.BindingManager.fireBindingManagerChanged(BindingManager.java:899)
+	at org.eclipse.jface.bindings.BindingManager.setActiveBindings(BindingManager.java:2179)
+	at org.eclipse.jface.bindings.BindingManager.recomputeBindings(BindingManager.java:1740)
+	at org.eclipse.jface.bindings.BindingManager.contextManagerChanged(BindingManager.java:689)
+	at org.eclipse.core.commands.contexts.ContextManager.fireContextManagerChanged(ContextManager.java:161)
+	at org.eclipse.core.commands.contexts.ContextManager.setEventCaching(ContextManager.java:320)
+	at org.eclipse.core.commands.contexts.ContextManager.deferUpdates(ContextManager.java:82)
+	at org.eclipse.ui.internal.contexts.ContextService.deferUpdates(ContextService.java:89)
+	at org.eclipse.ui.internal.WorkbenchPage$ActionSwitcher.updateActionSets(WorkbenchPage.java:839)
+	at org.eclipse.ui.internal.WorkbenchPage$ActionSwitcher.updateActivePart(WorkbenchPage.java:683)
+	at org.eclipse.ui.internal.WorkbenchPage$ActionSwitcher.updateTopEditor(WorkbenchPage.java:710)
+	at org.eclipse.ui.internal.WorkbenchPage.updateActiveEditorSources(WorkbenchPage.java:420)
+	at org.eclipse.ui.internal.WorkbenchPage.updateBroughtToTop(WorkbenchPage.java:464)
+	at org.eclipse.ui.internal.WorkbenchPage.access$20(WorkbenchPage.java:463)
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partBroughtToTop(WorkbenchPage.java:218)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$7.run(PartServiceImpl.java:314)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartBroughtToTop(PartServiceImpl.java:311)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.access$4(PartServiceImpl.java:309)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$1.handleEvent(PartServiceImpl.java:106)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1303)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1591)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1542)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1512)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1637)
+	at org.eclipse.ui.internal.editorsupport.win32.OleEditor$1$2.run(OleEditor.java:115)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+
+!ENTRY org.eclipse.ui 4 0 2017-11-10 06:38:03.186
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (org.eclipse.swt.SWTError: Cannot set the enabled state [GetLastError=0x57])
+	at org.eclipse.swt.SWT.error(SWT.java:4533)
+	at org.eclipse.swt.SWT.error(SWT.java:4448)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+Caused by: org.eclipse.swt.SWTError: Cannot set the enabled state [GetLastError=0x57]
+	at org.eclipse.swt.SWT.error(SWT.java:4559)
+	at org.eclipse.swt.widgets.MenuItem.setEnabled(MenuItem.java:754)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.updateMenuItem(HandledContributionItem.java:279)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.update(AbstractContributionItem.java:126)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:865)
+	at org.eclipse.ui.internal.Workbench.updateActiveWorkbenchWindowMenuManager(Workbench.java:3236)
+	at org.eclipse.ui.internal.Workbench.lambda$0(Workbench.java:3218)
+	at org.eclipse.jface.bindings.BindingManager.fireBindingManagerChanged(BindingManager.java:899)
+	at org.eclipse.jface.bindings.BindingManager.setActiveBindings(BindingManager.java:2179)
+	at org.eclipse.jface.bindings.BindingManager.recomputeBindings(BindingManager.java:1765)
+	at org.eclipse.jface.bindings.BindingManager.contextManagerChanged(BindingManager.java:689)
+	at org.eclipse.core.commands.contexts.ContextManager.fireContextManagerChanged(ContextManager.java:161)
+	at org.eclipse.core.commands.contexts.ContextManager.setEventCaching(ContextManager.java:320)
+	at org.eclipse.core.commands.contexts.ContextManager.deferUpdates(ContextManager.java:82)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:762)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:680)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:675)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.hidePart(PartServiceImpl.java:1322)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1591)
+	at org.eclipse.ui.internal.WorkbenchPage.hidePart(WorkbenchPage.java:1542)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditors(WorkbenchPage.java:1512)
+	at org.eclipse.ui.internal.WorkbenchPage.closeEditor(WorkbenchPage.java:1637)
+	at org.eclipse.ui.internal.editorsupport.win32.OleEditor$1$2.run(OleEditor.java:115)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	... 23 more
