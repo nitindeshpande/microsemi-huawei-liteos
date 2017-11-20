@@ -1,5 +1,5 @@
 # microsemi-huawei-liteos
-Repository for sharing work between microsemi and huawei about liteos
+Repository for sharing work related LiteOS between Microsemi and Huawei.
 
 
 ### microsemi-liteos
