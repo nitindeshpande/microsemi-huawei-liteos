@@ -1,0 +1,52 @@
+kernel/base/core/los_sys.o: ../kernel/base/core/los_sys.c \
+ ../kernel/base/core/los_sys.inc \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include/los_sys.ph \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include/los_base.ph \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_base.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\link\gcc/los_builddef.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_typedef.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\config/los_config.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_typedef.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_printf.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_printf.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_list.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_base.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_errno.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_sys.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\cpu\arm\cortex-m4/los_hwi.h \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include/los_tick.ph \
+ C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_tick.h
+
+../kernel/base/core/los_sys.inc:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include/los_sys.ph:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include/los_base.ph:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_base.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\link\gcc/los_builddef.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_typedef.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\config/los_config.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_typedef.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_printf.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_printf.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_list.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_base.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_errno.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_sys.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\cpu\arm\cortex-m4/los_hwi.h:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\base\include/los_tick.ph:
+
+C:\Users\nitin.deshpande\Documents\GitHub\microsemi-huawei-liteos\microsemi-liteos\mscc-huawei-wsp\sc-gd450i-board-test\kernel\include/los_tick.h:
